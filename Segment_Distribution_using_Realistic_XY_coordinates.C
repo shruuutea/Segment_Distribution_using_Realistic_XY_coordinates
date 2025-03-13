@@ -164,6 +164,6 @@ void Segment_Distribution_using_Realistic_XY_coordinates(const string& chan_file
     leg->Draw();
 
     // Save output
-    c1->SaveAs("gem_channel_groups_fixed.png");
-    cout << "Saved gem_channel_groups_fixed.png with fixed legend." << endl;
+    c1->SaveAs("xyz.png");
+  //  cout << "Saved gem_channel_groups_fixed.png with fixed legend." << endl;
 }
