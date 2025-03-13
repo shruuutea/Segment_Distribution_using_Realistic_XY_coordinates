@@ -6,7 +6,7 @@ It is designed for analyzing GEM detector data, ensuring accurate spatial mappin
 ## Features
 - Reads input XY data from detectors.
 - Applies transformation to obtain realistic coordinates.
-- Visualizes segment distribution.  
+- Visualizes segment distribution for GEM modules used in 2nd station of CBM experiment at FAIR.  
 
 ## Usage
 Run the script using ROOT:
